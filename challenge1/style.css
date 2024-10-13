@@ -1,0 +1,28 @@
+.container {
+  border: 2px solid white;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-bottom: 15px;
+}
+body {
+  background-color: rgb(33, 4, 58);
+}
+.text {
+  border: 2px solid white;
+}
+.header {
+  font-family: "Lugrasimo", cursive;
+  font-weight: 500;
+  font-style: normal;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
+.footer {
+  font-family: "Lugrasimo", cursive;
+  font-weight: 500;
+  font-style: normal;
+  color: white;
+  font-size: 10px;
+  text-align: center;
+}
